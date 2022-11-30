@@ -1,0 +1,15 @@
+C:\HW_Finish\bin\Debug\net6.0\HW_Finish.exe
+C:\HW_Finish\bin\Debug\net6.0\HW_Finish.deps.json
+C:\HW_Finish\bin\Debug\net6.0\HW_Finish.runtimeconfig.json
+C:\HW_Finish\bin\Debug\net6.0\HW_Finish.dll
+C:\HW_Finish\bin\Debug\net6.0\HW_Finish.pdb
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.csproj.AssemblyReference.cache
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.AssemblyInfoInputs.cache
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.AssemblyInfo.cs
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.csproj.CoreCompileInputs.cache
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.dll
+C:\HW_Finish\obj\Debug\net6.0\refint\HW_Finish.dll
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.pdb
+C:\HW_Finish\obj\Debug\net6.0\HW_Finish.genruntimeconfig.cache
+C:\HW_Finish\obj\Debug\net6.0\ref\HW_Finish.dll
